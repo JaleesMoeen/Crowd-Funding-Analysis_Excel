@@ -1,6 +1,20 @@
-## Crowd Funding Analysis Report
+## Crowd-Funding-Analysis_Excel
+
+
+Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success. 
+
+
+![Alt text](images/crowdfunding.jpg)
+
+
+To receive funding, the project must meet or exceed an initial goal, so many organisations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. 
+
 
 ### Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+
+
+![Alt text](images/1_parent_category.png)
+
 
 #### Form Pivot Table, Parent Category
 
@@ -12,7 +26,12 @@
 
 - Rest of the fours categories including technology have average ratio with slight positive numbers for successful projects as compare to the failed ones.
 
+
 #### From Pivot Table, Sub-Category
+
+
+![Alt text](images/2_sub_category.png)
+
 
 - “Plays” has the prominent most high values from all the other categories for number of projects and the successful rate. Crowdfunding is 7 to 8 times larger than all others projects.
 
@@ -22,11 +41,19 @@
 
 #### From Pivot Table, Date Conversion
 
+
+![Alt text](images/3_date.png)
+
+
 - It seems that there are a lot of people who are putting out campaign in the summer months that’s why there are number of successful attempts goes up in the summer months.
 
 - It also seems like failed and cancelled campaign do not get effected by the month of the year.
 
 #### From Outcome Based Goals
+
+
+![Alt text](images/4_outcome_based_goal.png)
+
 
 - We do have an increase for successful attempts ranges from 15k to 35k. 
 
