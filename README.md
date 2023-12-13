@@ -7,7 +7,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 ![Alt text](images/crowdfunding.jpg)
 
 
-To receive funding, the project must meet or exceed an initial goal, so many organisations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. 
+To receive funding, the project must meet or exceed an initial goal, so many organisations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. I organised and analysed a database of 1,000 sample projects to uncover any hidden trends.
 
 
 ### Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
